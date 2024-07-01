@@ -4,4 +4,4 @@
 
 ## Instances
 
-^\/dev\/sd[A-Za-z] = /dev/sdb
+^\/dev\/sd[A-Za-z] = /dev/sdX
